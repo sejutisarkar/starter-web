@@ -11,6 +11,10 @@ starter project
 
 introduction: Learning git and docker
 
+also learning git
+git comparisions
+git diff
 
 
 kubernetes
+## Docker and Devops
